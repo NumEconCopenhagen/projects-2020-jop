@@ -2,6 +2,7 @@
 
 
 test
+nu terser vi sdgu
 
 vds
 
