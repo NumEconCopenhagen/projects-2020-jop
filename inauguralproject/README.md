@@ -1,6 +1,8 @@
 # Inaugural project
 
-This notebook solves a labor supply problem numirically and finds the optimal values of different types of taxes from a political view.
+TEST 2
+
+This notebook solves a labor supply problem numirically and finds the optimal values of different types of taxes from a political view. 
 
 The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
 
